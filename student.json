@@ -1,0 +1,29 @@
+{
+    "S101": {
+        "name": "Aman",
+        "department": "CSE",
+        "marks": {
+            "Python": 78,
+            "Maths": 65,
+            "DBMS": 88
+        }
+    },
+    "S102": {
+        "name": "Rahul",
+        "department": "IT",
+        "marks": {
+            "Python": 85,
+            "Maths": 75,
+            "DBMS": 90
+        }
+    },
+    "S103": {
+        "name": "Priya",
+        "department": "ECE",
+        "marks": {
+            "Python": 92,
+            "Maths": 88,
+            "DBMS": 80
+        }
+    }
+}
